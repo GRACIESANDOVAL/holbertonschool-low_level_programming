@@ -1,10 +1,9 @@
 #!/bin/bash
-code of stdio.h file
+#include <stdio.h>
 
-     void main ()
+void main ()
+{
 
-     {
+gcc -e source.c
 
-     gcc -e source.c
-
-     }
+}
