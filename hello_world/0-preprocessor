@@ -1,0 +1,10 @@
+#!/bin/bash
+code of stdio.h file
+
+     void main ()
+
+     {
+
+     gcc -e source.c
+
+     }
