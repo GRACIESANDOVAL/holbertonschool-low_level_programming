@@ -1,9 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-
-void main ()
-{
-
-gcc -e source.c
-
-}
+gcc -E -o c $CFILE
